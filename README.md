@@ -1,7 +1,7 @@
 # Confidenceineducation_finalproject-AshleyS
 This is my final project for Sociology descriptive statistics course where I looked at individual's confidence in the educational system 
 # **Instructions**
-To access and utalize the script open the file "Scott-trust-education.R", which contains the code for my findings
+To access and utalize the script open the file "Scott-trust-education.R", which contains the code for my findings. To access the data set, use the file "final_paper_model.pdf"
 
 # ** Data **
 The reasearch question at hand was "How do subjective class identity, cognitive ability, and job satisfaction influence people’s confidence in the education system?" The dependent variable is confidence in the education system, measured using a three-category ordinal scale: “a great deal,” “only some,” or “hardly any.” Key independent variables include subjective class identity (how respondents view their own class position), work satisfaction (ranging from very satisfied to very dissatisfied), and vocabulary score (a proxy for cognitive ability). Additional controls include logged household income, degree type, number of children, and whether the respondent majored in a STEM field. These variables are grouped into three broader concepts: cognitive ability and job satisfaction, class identity and material outcomes, and background characteristics.
